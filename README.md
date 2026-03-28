@@ -2,7 +2,7 @@
 Final Project Draft for LIS4370
 
 ## Description
-This project is a comprehensive implementation of statistical analysis tools and utilities designed for academic research and data analysis. The Friedman project provides robust functionality for conducting complex statistical computations and data manipulation tasks commonly required in quantitative research.
+I kept the R package name as Friedman. My aim for the project is to provide a focused set of tools for analyzing daily weather time series. I am thinking of focusing on agricultural and ecological applications such as calculating growing degree days, assessing frost risk, and generating rolling precipitation summaries. The DESCRIPTION file outlines the package. The package depends on R (>= 3.5.0) and imports data manipulation and visualization packages (dplyr, tidyr, ggplot2, lubridate), which ensures efficient and reproducible workflows. The use of Authors@R specifies the author/maintainer with a valid email, while the Version (0.0.0.9000) signals that the package is in early development. Licensing under GPL-3 promotes open sharing and modification, and the inclusion of URL and BugReports fields directs users to the package’s GitHub repository for documentation and issue tracking which is essential for transparency and collaboration.
 
 ## License
 This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
