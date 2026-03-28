@@ -8,13 +8,13 @@ Description: Provides functions for common tasks in daily weather time series
     Designed for agricultural and ecological applications.
 Depends: R (>= 3.5.0)
 Imports: dplyr, tidyr, ggplot2, lubridate
-License: GPL-3
+License: GPL (>= 3)
 URL: https://github.com/abidurrahman2025/Friedman.git
-BugReports: https://github.com/abidurrahman2025/Friedman/blob/53b5bdcb15deecfd27c70e98f9c16d3d5be3771f/issues
+BugReports: https://github.com/abidurrahman2025/Friedman/blob/de38a6cfa33ed9eee1a34929407a634818fde530/issues
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.3
 NeedsCompilation: no
-Packaged: 2026-03-27 21:44:34 UTC; afiqb
+Packaged: 2026-03-28 03:36:39 UTC; afiqb
 Author: Abidur Rahman [aut, cre]
 Maintainer: Abidur Rahman <abidurrahman@usf.edu>
